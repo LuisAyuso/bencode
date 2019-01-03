@@ -1,0 +1,9 @@
+[package]
+name = "bencode"
+version = "0.1.0"
+authors = ["LuisAyuso <luis.f.ayuso@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+ascii = "0.9.1"
